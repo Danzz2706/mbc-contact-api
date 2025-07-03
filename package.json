@@ -1,0 +1,14 @@
+{
+  "name": "mbc-contact-api",
+  "version": "1.0.0",
+  "description": "Backend API for MBC Lab Contact Form",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zaidan Kamil Munadi",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.9.13"
+  }
+}
